@@ -26,7 +26,8 @@ ex.
         else {
             sendResponse("I don't know where " + firstName + " went to college.");
         }
-    }```
+    }
+```
 
 ### Entities
 * Will search for entities in your intent expressions
